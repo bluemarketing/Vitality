@@ -128,7 +128,7 @@ $(document).ready(function() {
 
     // Vide - Video Background Settings
     $('header.video').vide({
-        mp4: "mp4/camera.mp4",
+        mp4: "mp4/mtgVideo.mp4",
         poster: "img/agency/backgrounds/bg-mobile-fallback.jpg"
     }, {
         posterType: 'jpg'

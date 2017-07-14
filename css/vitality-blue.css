@@ -159,13 +159,13 @@ header.masthead {
     header.masthead {
       background-attachment: scroll; } }
   header.masthead .masthead-img {
-    max-width: 150px;
-    max-height: 150px; }
+    max-width: 750px;
+    max-height: 750px; }
   header.masthead .masthead-title {
     font-size: 4rem;
     line-height: 4rem;
     font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase; }
   header.masthead .masthead-subtitle {
     font-size: 1.5rem;
@@ -199,14 +199,14 @@ header.masthead {
       padding-top: 0;
       padding-bottom: 0; }
       header.masthead .masthead-img {
-        max-width: 250px;
-        max-height: 250px; }
+        max-width: 550px;
+        max-height: 550px; }
       header.masthead .masthead-title {
-        font-size: 5rem;
-        line-height: 5rem; }
-      header.masthead .masthead-subtitle {
         font-size: 2rem;
-        line-height: 2rem; } }
+        line-height: 2rem; }
+      header.masthead .masthead-subtitle {
+        font-size: 5rem;
+        line-height: 5rem; } }
 
 header.video {
   background: transparent; }
