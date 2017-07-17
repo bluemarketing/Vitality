@@ -126,7 +126,7 @@ h6 {
       -moz-transition: padding .5s;
       transition: padding .5s;
       border: 0;
-      background-color: transparent; }
+      background-color: black; }
       #mainNav.navbar-shrink {
         padding: 5px 0;
         background-color: #222; }

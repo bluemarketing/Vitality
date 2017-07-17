@@ -68,7 +68,7 @@ $(document).ready(function() {
 
     // Owl Carousel Settings
     $(".team-carousel").owlCarousel({
-        items: 3,
+        items: 4,
         navigation: true,
         pagination: false,
         navigationText: [
@@ -104,7 +104,7 @@ $(document).ready(function() {
     });
 
     $(".portfolio-gallery").owlCarousel({
-        items: 3,
+        items: 4,
     });
 
     // Magnific Popup jQuery Lightbox Gallery Settings
