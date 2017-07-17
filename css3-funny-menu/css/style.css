@@ -4,8 +4,8 @@
 }
 body{ 
   color:#fff; 
-  background:#2c3e50;
-  font-size: 12px;
+/*  background:#2c3e50;
+*/  font-size: 12px;
   min-width: 800px;
   display: block;
   position: relative;
@@ -110,26 +110,26 @@ body{
           transform: rotateY(0deg) rotateX(-90deg) rotateZ(0deg) translateZ(-50px); 
 }
 
-#a .side{ background:#16a085; }
-#a .front{ background:#1abc9c; }
+#a .side{ background:#13293D; }
+#a .front{ background:#006494; }
 
-#b .side{ background:#27ae60; }
-#b .front{ background:#2ecc71; }
+#b .side{ background:#8AC6D0; }
+#b .front{ background:#B8F3FF; }
 
 #c .side{ background:#2980b9; }
 #c .front{ background:#3498db; }
 
-#d .side{ background:#8e44ad; }
-#d .front{ background:#9b59b6; }
+#d .side{ background:#18435A; }
+#d .front{ background:#3A6EA5; }
 
-#e .side{ background:#f39c12; }
-#e .front{ background:#f1c40f; }
+#e .side{ background:#3E5C76; }
+#e .front{ background:#5299D3; }
 
-#f .side{ background:#d35400; }
-#f .front{ background:#e67e22; }
+#f .side{ background:#0E7C7B; }
+#f .front{ background:#17BEBB; }
 
-#g .side{ background:#c0392b; }
-#g .front{ background:#e74c3c; }
+#g .side{ background:#3891A6; }
+#g .front{ background:#01BAEF; }
 
 h1{
   font-size: 8em;
