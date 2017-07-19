@@ -92,8 +92,8 @@
 
 .oppenned .sub-menu {
   opacity: 1;
-  height: 400px;
-  width: 400px;
+  height: 520px;
+  width: 520px;
 }
 .oppenned span:nth-child(2) {
   overflow: visible;
