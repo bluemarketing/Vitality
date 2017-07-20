@@ -23,8 +23,8 @@
   border-radius: 40px;
   background-color: #fff;
   position: absolute;
-  right: 3px;
-  top: 3px;
+  right: 415px;
+  top: -20px;
   overflow: hidden;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -62,8 +62,9 @@
   -webkit-transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   transition: all 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
+
 .sub-menu li:first-child {
-  margin-top: 180px;
+  margin-top: 120px;
 }
 .sub-menu li:nth-child(1) {
   -webkit-transition-delay: 0.05s;
@@ -80,20 +81,32 @@
 .sub-menu li:nth-child(5) {
   -webkit-transition-delay: 0.25s;
 }
+.sub-menu li:nth-child(6) {
+  -webkit-transition-delay: 0.25s;
+}
+.sub-menu li:nth-child(7) {
+  -webkit-transition-delay: 0.25s;
+}
+.sub-menu li:nth-child(8) {
+  -webkit-transition-delay: 0.25s;
+}
+
+
 .sub-menu li a {
   color: #fff;
   font-family: 'Lato', Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 22px;
   width: 100%;
   display: block;
   float: left;
   line-height: 40px;
+  padding: -20px;
 }
 
 .oppenned .sub-menu {
   opacity: 1;
-  height: 520px;
-  width: 520px;
+  height: 500px;
+  width: 500px;
 }
 .oppenned span:nth-child(2) {
   overflow: visible;
@@ -108,8 +121,8 @@
           transform: rotate(45deg) translateY(12px) translateX(12px);
 }
 .oppenned span:nth-child(2) {
-  height: 400px;
-  width: 400px;
+  height: 450px;
+  width: 450px;
   right: -160px;
   top: -160px;
   border-radius: 50%;
@@ -120,7 +133,7 @@
           transform: rotate(-45deg) translateY(-10px) translateX(10px);
 }
 .oppenned li {
-  margin-right: 168px;
+  margin-right: 175px;
 }
 
 .button {

@@ -82,7 +82,7 @@ h6 {
   h2 {
     font-size: 50px; } }
 
-/*#mainNav {
+#mainNav {
   border: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   background-color: #222;
@@ -103,7 +103,7 @@ h6 {
     text-decoration: none;
     opacity: 1;
     color: white;
-    margin-left: 16px;
+    margin-left: 415px;
     -webkit-transition: all .5s;
     -moz-transition: all .5s;
     transition: all .5s;
@@ -118,7 +118,7 @@ h6 {
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:hover, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link:focus {
       color: rgba(255, 255, 255, 0.5); }
     #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:hover, #mainNav .navbar-collapse .navbar-nav > .nav-item > .nav-link.active:focus {
-      color: #0A8FD5; }*/
+      color: #0A8FD5; }
   @media (min-width: 992px) {
     #mainNav {
       padding: 30px 0;
@@ -131,7 +131,7 @@ h6 {
         padding: 5px 0;
         background-color: #222; }
       #mainNav .navbar-brand img {
-        height: 50px; }
+        height: 75px; }
       #mainNav .navbar-collapse .navbar-nav > .nav-item {
         margin-right: 5px; }
         #mainNav .navbar-collapse .navbar-nav > .nav-item:last-child {
