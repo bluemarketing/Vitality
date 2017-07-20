@@ -9,8 +9,5 @@ $(document).ready(function() {
 		$(document).delegate('.cls', 'click', function(event){
 			$('.open').removeClass('oppenned');
 			event.stopPropagation();
-		})
-		$(document).delegate('#about', 'click', function(event) {
-			$('.open').removeClass('oppenned');
 		});
 	});
