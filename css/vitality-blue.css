@@ -537,16 +537,22 @@ header.video {
   @media only screen and (min-device-width: 768px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
     .pricing {
       background-attachment: scroll; } }
-  .pricing .pricing-item {
+  .pricing .four {
     z-index: 1;
     margin-bottom: 30px;
     padding: 30px;
-    text-align: center;
+    text-align: left;
     color: #222;
     background: white;
     -webkit-box-shadow: 0 0 30px 5px rgba(34, 34, 34, 0.75);
     -moz-box-shadow: 0 0 30px 5px rgba(34, 34, 34, 0.75);
-    box-shadow: 0 0 30px 5px rgba(34, 34, 34, 0.75); }
+    box-shadow: 0 0 30px 5px rgba(34, 34, 34, 0.75); 
+
+
+  flex: 0 0 auto;
+  height: 140px;
+  background: white;
+}
     .pricing .pricing-item h3 {
       margin: 0; }
     .pricing .pricing-item hr {
